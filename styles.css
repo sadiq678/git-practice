@@ -1,0 +1,18 @@
+.top{
+	color: white;
+	background-color: gray;
+	text-align: right;
+}
+
+.right{
+	background-color: lightgray;
+	text-align: center;
+	border: 1px solid gray;
+}
+
+.orange{
+	color: white;
+	background-color: orange;
+	text-align: center;
+	border: 1px solid gray;
+}
